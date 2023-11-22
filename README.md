@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## About Me
-I'm a physicist and also a Linux/FOSS enthusiast. My main scientific interest is /Quantum Information Theory/, both its applications to Quantum Technologies (such as high precision sensing) and mathematical/theoretical aspects.
+I'm a physicist and also a Linux/FOSS enthusiast. My main scientific interest is Quantum Information Theory, both its applications to Quantum Technologies (such as high precision sensing) and mathematical/theoretical aspects.
 
 ## Projects
 
